@@ -1,0 +1,8 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\bin\Debug\дз 15.04.exe.config
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\bin\Debug\дз 15.04.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\bin\Debug\дз 15.04.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\obj\Debug\дз 15.04.csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\obj\Debug\дз 15.04.csproj.SuggestedBindingRedirects.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\obj\Debug\дз 15.04.csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\obj\Debug\дз 15.04.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\.NET C#\дз 15.04\дз 15.04\obj\Debug\дз 15.04.pdb
